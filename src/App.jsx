@@ -9,7 +9,7 @@ function App() {
     {/* content */}
     <Home/>
     {/* footer */}
-    {/* <Footer/> */}
+    <Footer/>
   </div>
 }
 
